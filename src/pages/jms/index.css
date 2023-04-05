@@ -1,0 +1,153 @@
+.Spacer{
+    height: 20px;
+    width: 100%;
+}
+
+.TitlePage{
+    font-size: 1.4em !important;
+    font-weight: 500;
+}
+
+.TitleCard{
+    font-size: 1.3em !important;
+    font-weight: 500;
+} 
+
+.TitleHeaderTable{
+    font-size: 1.2em !important;
+    font-weight: 500;
+} 
+
+.TitleHeaderTableCard{
+    font-size: 1em !important;
+    font-weight: 500;
+} 
+
+.BgRed .MuiSvgIcon-root {
+    color: #df5050 !important;
+    font-size: 1rem !important;
+}
+
+.BgPrimary .MuiSvgIcon-root {
+    color: #0fa1ce !important;
+    font-size: 1rem !important;
+}
+
+.MuiCardActions-root {
+    display: flex;
+    padding: 8px;
+    align-items: flex-end;
+    float: right;
+}
+
+.liWithoutPadding .MuiListItem-gutters {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.slim .MuiListItem-dense {
+    padding-top: 2px !important;
+    padding-bottom: 2px !important;
+}
+
+.alignRight{
+    float: right;
+}
+
+
+
+.floatRight{
+    float: right !important;
+    width: 100%;
+}
+
+.fabButton{
+    position: relative;
+   
+}
+.fabButton .MuiFab-root{    
+    color: white !important;
+    background-color: #e04747 !important;
+}
+
+.fabButton .MuiFab-root:hover{    
+    background-color: #e04747 !important;
+}
+
+.desativar:disabled{
+    background: #ccc;
+}
+
+.ButtonPrimary button, .ButtonPrimary .MuiSvgIcon-root {
+    background-color: #2d8fad ;
+    color: white ;
+}
+
+
+.fabButton button,.fabButton .MuiSvgIcon-root{    
+    color: white !important;
+    background-color: #e04747 !important;
+}
+
+
+.MuiFormControl-root2 {
+    
+    margin-bottom: 6px;
+    display: flex;
+    padding: 0;
+    align-items: center;
+    position: relative;
+    min-width: 150px;
+    /* flex-direction: row; */
+    vertical-align: bottom;
+}
+
+.formControl{
+    margin-left: 10px;
+    border: 1px solid red;
+}
+/* 
+.inputContainer{
+
+    
+    margin: 5px;
+    align-self: baseline;
+} */
+
+.gridButton{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+
+.modal-size {
+    position: absolute;
+    width: 50%;
+    height: 50%;
+  
+    top: 50%;
+    left: 50%;
+    right: auto;
+    bottom: auto;
+  
+    transform: translate(-50%, -50%);
+  }
+
+  .hidden{
+      display: none;
+  }
+
+  .myCheckBox {
+    transform: scale(0.7);
+    width: 100%;
+    }
+
+
+
+ /* .My-MuiTableRow-root{
+    color: inherit ;
+    display: table-row ;
+    outline: 0 ;
+    /* height: 45px ; */
+   
+ /* } */ 

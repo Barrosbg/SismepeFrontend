@@ -1,0 +1,9 @@
+/* span.MuiInputLabel-outlined {
+    z-index: 1;
+    transform: translate(14px, 12px) scale(1) !important;
+    pointer-events: none;
+}
+
+span.MuiInputLabel-outlined.MuiInputLabel-shrink {
+    transform: translate(14px, -6px) scale(0.75) !important;
+} */

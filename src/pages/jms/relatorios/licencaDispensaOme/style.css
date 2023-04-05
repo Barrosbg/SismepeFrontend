@@ -1,0 +1,22 @@
+.box-componet{
+    margin-left: 5px;
+
+}
+/* .box-grid{
+    border: 1px solid red;
+} */
+
+.box-label{
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.BgRed .MuiSvgIcon-root {
+    color: #df5050 !important;
+    font-size: 1rem !important;
+}
+
+.BgPrimary .MuiSvgIcon-root {
+    color: #0fa1ce !important;
+    font-size: 1rem !important;
+}

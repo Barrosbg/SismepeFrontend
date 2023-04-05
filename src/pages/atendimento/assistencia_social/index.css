@@ -1,0 +1,106 @@
+.Spacer{
+    height: 20px;
+    width: 100%;
+}
+
+.TitlePage{
+    font-size: 1.4em !important;
+    font-weight: 500;
+    color: #444546;
+}
+
+.TitleCard{
+    font-size: 1.3em !important;
+    font-weight: 500;
+} 
+
+.TitleHeaderTable{
+    font-size: 1.2em !important;
+    font-weight: 500;
+} 
+
+.TitleHeaderTableCard{
+    font-size: 1em !important;
+    font-weight: 500;
+} 
+
+.BgRed .MuiSvgIcon-root {
+    color: #df5050 !important;
+    font-size: 1rem !important;
+}
+
+.BgPrimary .MuiSvgIcon-root {
+    color: #0fa1ce !important;
+    font-size: 1rem !important;
+}
+
+.MuiCardActions-root {
+    display: flex;
+    padding: 8px;
+    align-items: flex-end;
+    float: right;
+}
+
+.liWithoutPadding .MuiListItem-gutters {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.slim .MuiListItem-dense {
+    padding-top: 2px !important;
+    padding-bottom: 2px !important;
+}
+
+.alignRight{
+    float: right;
+}
+
+.MuiButton-containedPrimary {
+    color: #fff im !important;
+    background-color: #e04747 !important;
+}
+
+.floatRight{
+    float: right !important;
+    width: 100%;
+}
+
+.fabButton{
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}
+.fabButton .MuiFab-root{    
+    color: white !important;
+    background-color: #e04747 !important;
+}
+
+.fabButton .MuiFab-root:hover{    
+    background-color: #e04747 !important;
+}
+
+.ButtonPrimary button, .ButtonPrimary .MuiSvgIcon-root {
+    background-color: #2d8fad !important;
+    color: white !important;
+}
+
+.MuiOutlinedInput-root {
+    position: relative;
+    border-radius: 4px;
+    background-color: white !important;
+  }
+
+
+.MuiInputLabel-outlined.MuiInputLabel-shrink {
+    transform: translate(14px, -6px) scale(0.75) !important;
+}
+
+.MuiInputLabel-outlined {
+    z-index: 1 !important;
+    transform: translate(14px, 13px) scale(1) !important;
+    pointer-events: none !important;
+}
+
+.MuiGrid-spacing-xs-1 {
+    width: 100% !important;
+    margin: 0px !important;
+}

@@ -1,0 +1,65 @@
+.Spacer{
+    height: 20px;
+    width: 100%;
+}
+.FormatForm{
+    font-size: 1.4em;
+    text-align: center;
+}
+
+.fabButton .MuiFab-root{    
+    color: white !important;
+    background-color: #e04747 !important;
+}
+/* .MuiTableCell-root {    
+    width: 100% !important;
+    display: table!important;
+    border-spacing: 0!important;
+    border-collapse: inherit !important;
+} */
+
+.ModalExiste{
+    display: flex;
+    flex-direction: column;
+}
+.ModalExiste p{
+    font-size: 1.2rem;
+}
+
+.sussesso{
+    color: ivory;
+    background: limegreen;
+}
+.fichasGrid {
+   margin-right: 15px;  
+}
+.listComponent{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+    font-size: 1.2rem;
+}
+
+.chip{
+    margin: 8px;
+}
+.cardUsuario{
+    
+    width: 100%;
+}
+.cardImc{
+    
+    width: 100%;
+}
+
+.cardComorbidades{
+    width: 100%;
+}
+.cardPerguntas{
+    width: 100%;
+}
+
+.cardlista{
+    width: 100%;
+}

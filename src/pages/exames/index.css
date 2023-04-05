@@ -1,0 +1,24 @@
+.Spacer{
+    height: 20px;
+    width: 100%;
+}
+
+.card{
+    height: "100vh";
+    width: "100vh";
+}
+
+.MuiInputBase-root {
+    /* color: rgba(0, 0, 0, 0.87) !important;
+    cursor: text;
+    display: inline-flex;
+    position: relative; */
+    min-height: 1.5rem !important;
+    /* font-size: 1rem;
+    box-sizing: border-box;
+    align-items: center;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-weight: 400;
+    line-height: 1.1876em;
+    letter-spacing: 0.00938em; */
+}
